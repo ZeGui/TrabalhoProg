@@ -10,8 +10,8 @@ package projetomax.usuarios;
  * @author josel
  */
 public abstract class Pessoa {
-    private String nome;
-    private String status;
+    protected String nome;
+    protected String status;
 
     public String getNome() {
         return nome;

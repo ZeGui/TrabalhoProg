@@ -9,7 +9,6 @@ package projetomax.usuarios;
  *
  * @author josel
  */
-public class Nutricionista extends Pessoa{
-
-    
+public interface IAlimento {
+    public void tipoCarne();
 }

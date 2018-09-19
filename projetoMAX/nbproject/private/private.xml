@@ -5,10 +5,13 @@
         <group>
             <file>file:/C:/Users/josel/Desktop/Trabalhos/Programação%202/projetoMAX/src/projetomax/alimento/Alimento.java</file>
             <file>file:/C:/Users/josel/Desktop/Trabalhos/Programação%202/projetoMAX/src/projetomax/usuarios/Nutricionista.java</file>
+            <file>file:/C:/Users/josel/Desktop/Trabalhos/Programação%202/projetoMAX/src/projetomax/telas/cadastraIngrediente.java</file>
+            <file>file:/C:/Users/josel/Desktop/Trabalhos/Programação%202/projetoMAX/src/projetomax/telas/cadastraComida.java</file>
+            <file>file:/C:/Users/josel/Desktop/Trabalhos/Programação%202/projetoMAX/src/projetomax/telas/modelos/ComidaDataModel.java</file>
             <file>file:/C:/Users/josel/Desktop/Trabalhos/Programação%202/projetoMAX/src/projetomax/alimento/Ingrediente.java</file>
+            <file>file:/C:/Users/josel/Desktop/Trabalhos/Programação%202/projetoMAX/src/projetomax/telas/menuEscolha.java</file>
             <file>file:/C:/Users/josel/Desktop/Trabalhos/Programação%202/projetoMAX/src/projetomax/alimento/Comida.java</file>
-            <file>file:/C:/Users/josel/Desktop/Trabalhos/Programação%202/projetoMAX/src/projetomax/usuarios/Pessoa.java</file>
-            <file>file:/C:/Users/josel/Desktop/Trabalhos/Programação%202/projetoMAX/src/projetomax/usuarios/Cliente.java</file>
+            <file>file:/C:/Users/josel/Desktop/Trabalhos/Programação%202/projetoMAX/src/projetomax/telas/modelos/IngredienteDataModel.java</file>
             <file>file:/C:/Users/josel/Desktop/Trabalhos/Programação%202/projetoMAX/src/projetomax/ProjetoMAX.java</file>
         </group>
     </open-files>
